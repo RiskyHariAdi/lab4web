@@ -6,3 +6,7 @@
 ## Langkah langkah praktikum 4
 Membuka text editor, Saya menggunakan Visual Studio Code
 ![foto!](foto/1.png)
+
+## 1. Membuat Box Element
+Tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+![foto!](foto/2.png)
