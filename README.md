@@ -9,4 +9,4 @@ Membuka text editor, Saya menggunakan Visual Studio Code
 
 ## 1. Membuat Box Element
 Tambahkan kode untuk membuat box element dengan tag div seperti berikut.
-![foto!](foto/2.png)
+![foto!](foto/22.png)
