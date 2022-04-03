@@ -127,7 +127,7 @@ Kemudian tambahkan CSS.
 
 Lalu lihat hasilnya
 
-![foto!](foto/fotogua.png.png)
+![foto!](foto/fotogua.png)
 
 ## 2. Buat html seperti berikut
 
