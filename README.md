@@ -14,3 +14,4 @@ Tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 ## 2. CSS Float Property
 Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut,
 Kemudian buka browser untuk melihat hasilnya.
+![foto!](foto/3.png)
