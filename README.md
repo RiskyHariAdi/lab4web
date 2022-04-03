@@ -5,4 +5,4 @@
 
 ## Langkah langkah praktikum 4
 Membuka text editor, Saya menggunakan Visual Studio Code
-![foto!](1/foto.png)
+![foto!](foto/1.png)
