@@ -27,7 +27,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 
 Kemudian atur property clear pada CSS, seperti berikut.
 
-![foto!](foto/1.png)
+![foto!](foto/20.png)
 
 Selanjutnya buka browser dan refresh kembali.
 
