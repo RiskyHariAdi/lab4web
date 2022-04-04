@@ -79,7 +79,7 @@ Kemudian tambahkan CSS
 
 Lalu lihat hasilnya
 
-![foto!](foto/widget.png)
+![foto!](foto/widget2.png)
 
 ## 9. Mengatur Footer
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer & Lihat hasilnya
