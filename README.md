@@ -42,7 +42,7 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 
 Kemudian tulis kode berikut, Lalu buka browser dan lihat hasilnya.
 
-![layout!](foto/layout.png.png)
+![layout!](foto/layout.png)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
@@ -57,7 +57,7 @@ Kemudian selanjutnya mengatur navigasi, Lalu lihat hasilnya.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
 ![foto!](foto/11.png)
-![foto!](foto/hero.png.png)
+![foto!](foto/hero.png)
 
 Kemudian lihat hasilnya.
 
@@ -88,7 +88,7 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer & Lihat hasilny
 
 ## 10. Menambahkan Elemen lainnya pada Main Content
 
-![foto!](foto/16.png.png)
+![foto!](foto/16.png)
 
 Kemudian tambahkan CSS.
 
